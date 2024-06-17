@@ -22,7 +22,7 @@ Follow the on-screen instructions to take turns attacking the opponent.
 To run the game, ensure you have Java installed on your machine. Then, follow these steps:
 
 Copiar código
-git clone https://github.com/yourusername/battleship.git
+git clone https://github.com/Apueblar/battleship.git
 cd battleship
 javac Battleship.java
 java Battleship
